@@ -1,0 +1,7 @@
+C:\Users\Lars Willhelm\source\repos\ConsoleDotSnek\ConsoleDotSnek\bin\Debug\ConsoleDotSnek.exe.config
+C:\Users\Lars Willhelm\source\repos\ConsoleDotSnek\ConsoleDotSnek\bin\Debug\ConsoleDotSnek.exe
+C:\Users\Lars Willhelm\source\repos\ConsoleDotSnek\ConsoleDotSnek\bin\Debug\ConsoleDotSnek.pdb
+C:\Users\Lars Willhelm\source\repos\ConsoleDotSnek\ConsoleDotSnek\obj\Debug\ConsoleDotSnek.csprojAssemblyReference.cache
+C:\Users\Lars Willhelm\source\repos\ConsoleDotSnek\ConsoleDotSnek\obj\Debug\ConsoleDotSnek.csproj.CoreCompileInputs.cache
+C:\Users\Lars Willhelm\source\repos\ConsoleDotSnek\ConsoleDotSnek\obj\Debug\ConsoleDotSnek.exe
+C:\Users\Lars Willhelm\source\repos\ConsoleDotSnek\ConsoleDotSnek\obj\Debug\ConsoleDotSnek.pdb
